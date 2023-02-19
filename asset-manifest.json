@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Spargel125.github.io/test-app/static/css/main.073c9b0a.css",
+    "main.js": "/Spargel125.github.io/test-app/static/js/main.a1c0205e.js",
+    "static/js/787.3fa25858.chunk.js": "/Spargel125.github.io/test-app/static/js/787.3fa25858.chunk.js",
+    "static/media/logo.svg": "/Spargel125.github.io/test-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Spargel125.github.io/test-app/index.html",
+    "main.073c9b0a.css.map": "/Spargel125.github.io/test-app/static/css/main.073c9b0a.css.map",
+    "main.a1c0205e.js.map": "/Spargel125.github.io/test-app/static/js/main.a1c0205e.js.map",
+    "787.3fa25858.chunk.js.map": "/Spargel125.github.io/test-app/static/js/787.3fa25858.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a1c0205e.js"
+  ]
+}
