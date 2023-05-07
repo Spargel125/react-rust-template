@@ -2,7 +2,7 @@
   "name": "react-wasm-tutorial",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Spargel125.github.io/test-app/",
+  "homepage": "https://Spargel125.github.io/test-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
