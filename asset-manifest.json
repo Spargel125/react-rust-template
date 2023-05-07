@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/test-app/static/css/main.073c9b0a.css",
-    "main.js": "/test-app/static/js/main.0c1cfb53.js",
-    "static/js/787.3fa25858.chunk.js": "/test-app/static/js/787.3fa25858.chunk.js",
-    "static/media/logo.svg": "/test-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/test-app/index.html",
-    "static/media/wasm_lib_bg.wasm": "/test-app/static/media/wasm_lib_bg.59d7cbae78ee43552242.wasm",
-    "main.073c9b0a.css.map": "/test-app/static/css/main.073c9b0a.css.map",
-    "main.0c1cfb53.js.map": "/test-app/static/js/main.0c1cfb53.js.map",
-    "787.3fa25858.chunk.js.map": "/test-app/static/js/787.3fa25858.chunk.js.map"
+    "main.css": "/react-rust-template/static/css/main.073c9b0a.css",
+    "main.js": "/react-rust-template/static/js/main.3a54ae9b.js",
+    "static/js/787.3fa25858.chunk.js": "/react-rust-template/static/js/787.3fa25858.chunk.js",
+    "static/media/logo.svg": "/react-rust-template/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-rust-template/index.html",
+    "static/media/wasm_lib_bg.wasm": "/react-rust-template/static/media/wasm_lib_bg.59d7cbae78ee43552242.wasm",
+    "main.073c9b0a.css.map": "/react-rust-template/static/css/main.073c9b0a.css.map",
+    "main.3a54ae9b.js.map": "/react-rust-template/static/js/main.3a54ae9b.js.map",
+    "787.3fa25858.chunk.js.map": "/react-rust-template/static/js/787.3fa25858.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0c1cfb53.js"
+    "static/js/main.3a54ae9b.js"
   ]
 }
