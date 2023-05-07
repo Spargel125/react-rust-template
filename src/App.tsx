@@ -26,7 +26,7 @@ useEffect(() =>{
           target="_blank"
           rel="noopener noreferrer"
         >
-          Reactとwasm(rust)によるページ作成のテンプレート
+          Reactとwasm(rust)によるページ作成のテンプレート！
         </a>
       </header>
     </div>
