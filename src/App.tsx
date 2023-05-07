@@ -22,7 +22,7 @@ useEffect(() =>{
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/Spargel125/react-rust-template"
           target="_blank"
           rel="noopener noreferrer"
         >
