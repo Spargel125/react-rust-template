@@ -7,7 +7,7 @@ function App() {
   const [ans, setAns] = useState(0);
 useEffect(() =>{
   init().then(() => {
-    setAns(add(1,1));
+    setAns(add(3,6));
   })
 },[])
   return (
@@ -26,7 +26,7 @@ useEffect(() =>{
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Reactとwasm(rust)によるページ作成のテンプレート
         </a>
       </header>
     </div>
